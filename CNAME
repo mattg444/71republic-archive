@@ -1,4 +1,1 @@
-echo "www.71republic.com" > CNAME
-git add -A
-git commit -m “Added CNAME file.”
-git push origin master
+71republic.com
